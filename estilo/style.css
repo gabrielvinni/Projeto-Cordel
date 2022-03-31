@@ -58,14 +58,13 @@ section {
     padding-left: 30px;
     padding-top: 10vh;
     padding-bottom: 10vh;
-    font-size: 3vw;
+    font-size: 3.7vw;
 }
 
 section > p {
     padding: 10px;
     font-family: var(--fontP);
-    line-height: 1.7em;
-    
+    line-height: 2em;
 }
 
 section.normal {
@@ -73,7 +72,8 @@ section.normal {
 }
 
 section.normal > p {
-    padding-bottom: 2.5em;
+    padding-bottom: 3em;
+    padding-top: 3em;
 }
 
 section.imagem {
