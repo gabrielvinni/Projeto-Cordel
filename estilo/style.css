@@ -20,7 +20,7 @@ font-family: 'Mali', cursive;
 
 html, body {
     min-height: 100vh;
-    background: darkgray;
+    background: #0C3808;
     font-family: var(--font1);
 }
 
